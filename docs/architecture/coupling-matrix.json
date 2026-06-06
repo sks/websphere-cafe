@@ -1,0 +1,17 @@
+{
+ "modules": [
+ {
+ "path": ".",
+ "language": "java",
+ "depends_on": [],
+ "inbound_edges": 0,
+ "outbound_edges": 0
+ }
+ ],
+ "hub_module": ".",
+ "extraction_order": [
+ "."
+ ],
+ "module_count": 1,
+ "max_inbound": 0
+}

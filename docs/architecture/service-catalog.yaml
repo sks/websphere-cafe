@@ -1,0 +1,12 @@
+# Proposed groups — generated from dependency scan
+repo_archetype: mixed
+services:
+- name: .
+ kind: library_module
+ modules: [.]
+ depends_on: []
+ never_extract: true
+ summary_plain: "Group centered on . (inbound_edges=0)."
+ developer_notes: "Run scoped tests for . before API changes."
+ tech_lead_notes: "Schedule after hub stabilization when never_extract is true."
+ architect_notes: "See coupling-matrix.json for edge evidence."

@@ -1,0 +1,18 @@
+{
+  "scan_status": "failed",
+  "reason": "cce_pack_unavailable",
+  "cce_plan": {
+    "scan_status": "failed",
+    "candidate_file_count": 0,
+    "sample_files": []
+  },
+  "critical_path_dirs": [],
+  "cce_reports": {},
+  "cloud_entitlements": {
+    "scan_status": "failed",
+    "summary": {
+      "total_entitlements": 0,
+      "by_provider": {}
+    }
+  }
+}
