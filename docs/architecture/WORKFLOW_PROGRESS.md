@@ -8,3 +8,4 @@ Guild updates **this same pull request** with one commit per completed stage so 
 | Stage | Status | Commit prefix |
 |-------|--------|---------------|
 | parallel-plan-prep | complete | `docs(monorepo-split): [stage:parallel-plan-prep]` |
+| final | complete | `docs(monorepo-split): [stage:final]` |
